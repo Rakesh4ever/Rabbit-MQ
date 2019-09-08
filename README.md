@@ -22,4 +22,10 @@ RabbitMQ written in Erlang programming language. So we need to first install Erl
   http://localhost:15672 and navigate to >> Queues tab >> find exchange name(kumar.exchange)>> and then Get message(s). Here you will get 
   Pushed message payload in the rabbitmq.
   
+  # RabbitMQ management console
+  
+  
+![Rabbit-mq-mgmt-console](https://user-images.githubusercontent.com/48691043/64487704-50257600-d25b-11e9-9dfb-a02acf523ae9.JPG)
+  
   Thanks
+  
