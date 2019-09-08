@@ -15,3 +15,5 @@ RabbitMQ written in Erlang programming language. So we need to first install Erl
 
  Now go to the browser hit: localhost:15672
  
+ 
+ 4) Go browser and type  http://localhost:8080/javainuse-rabbitmq/producer?empName=emp1&empId=emp001  query param.
